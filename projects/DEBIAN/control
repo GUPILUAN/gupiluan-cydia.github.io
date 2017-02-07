@@ -1,8 +1,8 @@
-Package:
-Name:
-Version:
-Architecture: iphoneos-arm
-Description:
-Maintainer:
-Author:
-Section:
+Package:com.creatix.peek-a-boo_10.0.2_iphoneos-arm.deb
+Name:Peek-a-boo
+Version:10.0.2
+Architecture:iphoneos-arm
+Description:3D touch para dispositivos que no lo tienen
+Maintainer:Creatix
+Author:Creatix
+Section:Tweaks
