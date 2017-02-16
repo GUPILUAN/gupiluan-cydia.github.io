@@ -1,10 +1,12 @@
-Maintainer: Creatix
-Name: Peek-a-boo
-Package: com.creatix.peek-a-boo_10.0.2_iphoneos-arm.deb
-Section: Tweaks
+Package: com.creatix.peek-a-boo
 Version: 10.0.2
+Section: Tweaks
+Maintainer: Luis Gutiérrez <gupiluan@hotmail.com>
+Depends: MobileSubstrate
 Architecture: iphoneos-arm
-Description: 3D touch para dispositivos que no lo tienen
-Homepage: http://www.youtube.com/GUPILUAN15
+Filename: debs//com.creatix.peek-a-boo_10.0.2_iphoneos-arm.deb
 Size: 24904
-Filename: debs/com.creatix.peek-a-boo_10.0.2_iphoneos-arm.deb
+Description: 3D Touch para dispositivos antiguos
+name: Peek a Boo
+author: Creative
+homepage: http://gupiluan.com
