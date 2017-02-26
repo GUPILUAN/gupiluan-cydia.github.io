@@ -8,8 +8,7 @@ Filename: debs//me.chewitt.fingal_1.1.0-1+debug_iphoneos-arm.deb
 Size: 77920
 Installed-Size: 392
 MD5sum: 369d493315d785a655e26572fbdaa684
-Description: English: Animated icon theming platform for iOS 10
-             Español: Temas con iconos animados para iOS 10
+Description: English: Animated icon theming platform for iOS 10 Español: Temas con iconos animados para iOS 10
 name: Fingal
 author: Charlie Hewitt <contact@chewitt.me>
 icon: file:///Library/PreferenceBundles/FingalPrefs.bundle/icon_big.png
