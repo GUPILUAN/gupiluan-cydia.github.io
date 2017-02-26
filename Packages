@@ -1,15 +1,15 @@
 Package: mex.gupiluan.alis
-Version: 1.0-4+debug
+Version: 0.9-1+debug
 Section: Tweaks
 Maintainer: GLuis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
 Depends: mobilesubstrate, firmware (>=10.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: debs//mex.gupiluan.alis_1.0-4+debug_iphoneos-arm.deb
-Size: 101254
+Filename: debs//mex.gupiluan.alis_0.9-1+debug_iphoneos-arm.deb
+Size: 96244
 Installed-Size: 516
-MD5sum: 20921c6d94884be23bda228b3c544e24
+MD5sum: 4533774cb2dd0618073a801e058a5d23
 Description: English: Animated icon theming platform for iOS 10 Español: Temas con iconos animados para iOS 10
-icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
 author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
+icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
 name: Alis
 
