@@ -10,8 +10,20 @@ Size: 48642
 Installed-Size: 328
 MD5sum: ea70d9be71efa71e9179297bd1c9ffd9
 Description: Power Tap allows you to toggle the power down bar through different settings, such as "reboot," "respring," and "safe mode." Toggling takes place when you tap the slider's knob (a circular icon with a power symbol). Power Tap is intended to replace the earlier tweak "Slide to Reboot."
-name: Power Tap
 author: Dan Saba
+name: Power Tap
+
+Package: com.gupiluan.iossierra
+Version: 1.0
+Section: Themes
+Maintainer: Luis Gutierrez (GUPILUAN) <gupiluan@hotmail.com>
+Architecture: iphoneos-arm
+Filename: debs//iOSSierra.deb
+Size: 2107340
+MD5sum: b330696caf875f839f68b6585778c4ec
+Description: Tema inspirado en macOS Sierra (UTILIZAR ANEMONE)
+author: Luis Gutierrez (GUPILUAN) <gupiluan@hotmail.com>
+name: iOS Sierra
 
 Package: me.chewitt.fingal
 Version: 1.1.0-1+debug
@@ -24,7 +36,7 @@ Size: 77918
 Installed-Size: 392
 MD5sum: b59c490715e3e1d7318f80478e131695
 Description: English: Animated icon theming platform for iOS 10 Español: Temas con iconos animados para iOS 10
-icon: file:///Library/PreferenceBundles/FingalPrefs.bundle/icon_big.png
-name: Fingal
 author: Charlie Hewitt <contact@chewitt.me>
+name: Fingal
+icon: file:///Library/PreferenceBundles/FingalPrefs.bundle/icon_big.png
 
