@@ -1,15 +1,3 @@
-Package: com.gupiluan.iossierra
-Version: 1.0
-Section: Themes
-Maintainer: Luis Gutierrez (GUPILUAN) <gupiluan@hotmail.com>
-Architecture: iphoneos-arm
-Filename: debs//iOSSierra.deb
-Size: 2107340
-MD5sum: b330696caf875f839f68b6585778c4ec
-Description: Tema inspirado en macOS Sierra (UTILIZAR ANEMONE)
-author: Luis Gutierrez (GUPILUAN) <gupiluan@hotmail.com>
-name: iOS Sierra
-
 Package: me.chewitt.fingal
 Version: 1.1.0
 Section: Tweaks
@@ -21,7 +9,7 @@ Size: 77698
 Installed-Size: 376
 MD5sum: 3fafa28808fa6f2f01f66b4d1896509b
 Description: Animated icon theming platform for iOS 10
+icon: file:///Library/PreferenceBundles/FingalPrefs.bundle/icon_big.png
 author: Charlie Hewitt <contact@chewitt.me>
 name: Fingal
-icon: file:///Library/PreferenceBundles/FingalPrefs.bundle/icon_big.png
 
