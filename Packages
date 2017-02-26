@@ -1,15 +1,15 @@
 Package: me.chewitt.fingal
-Version: 1.1.0
+Version: 1.1.0-1+debug
 Section: Tweaks
 Maintainer: GUPILUAN <gupiluan@hotmail.com>
 Depends: mobilesubstrate, firmware (>=10.0), preferenceloader
 Architecture: iphoneos-arm
 Filename: debs//me.chewitt.fingal_1.1.0-1+debug_iphoneos-arm.deb
-Size: 77920
+Size: 77918
 Installed-Size: 392
-MD5sum: 369d493315d785a655e26572fbdaa684
+MD5sum: b59c490715e3e1d7318f80478e131695
 Description: English: Animated icon theming platform for iOS 10 Español: Temas con iconos animados para iOS 10
-name: Fingal
 author: Charlie Hewitt <contact@chewitt.me>
+name: Fingal
 icon: file:///Library/PreferenceBundles/FingalPrefs.bundle/icon_big.png
 
