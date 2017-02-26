@@ -1,42 +1,15 @@
-Package: com.dpkgdan.powertap
-Version: 1.1-1+debug
+Package: mex.gupiluan.alis
+Version: 1.0-2+debug
 Section: Tweaks
-Maintainer: Dan Saba
-Depends: firmware (>= 7), mobilesubstrate, preferenceloader
-Conflicts: com.dpkgdan.slidetoreboot, com.myrepospace.dpkgdan.powertap, com.myrepospace.dpkgdan.slidetoreboot
-Architecture: iphoneos-arm
-Filename: debs//com.dpkgdan.powertap_1.1-1+debug_iphoneos-arm.deb
-Size: 48642
-Installed-Size: 328
-MD5sum: ea70d9be71efa71e9179297bd1c9ffd9
-Description: Power Tap allows you to toggle the power down bar through different settings, such as "reboot," "respring," and "safe mode." Toggling takes place when you tap the slider's knob (a circular icon with a power symbol). Power Tap is intended to replace the earlier tweak "Slide to Reboot."
-author: Dan Saba
-name: Power Tap
-
-Package: com.gupiluan.iossierra
-Version: 1.0
-Section: Themes
-Maintainer: Luis Gutierrez (GUPILUAN) <gupiluan@hotmail.com>
-Architecture: iphoneos-arm
-Filename: debs//iOSSierra.deb
-Size: 2107340
-MD5sum: b330696caf875f839f68b6585778c4ec
-Description: Tema inspirado en macOS Sierra (UTILIZAR ANEMONE)
-author: Luis Gutierrez (GUPILUAN) <gupiluan@hotmail.com>
-name: iOS Sierra
-
-Package: me.chewitt.fingal
-Version: 1.1.0-1+debug
-Section: Tweaks
-Maintainer: GUPILUAN <gupiluan@hotmail.com>
+Maintainer: GLuis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
 Depends: mobilesubstrate, firmware (>=10.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: debs//me.chewitt.fingal_1.1.0-1+debug_iphoneos-arm.deb
-Size: 77918
-Installed-Size: 392
-MD5sum: b59c490715e3e1d7318f80478e131695
+Filename: debs//mex.gupiluan.alis_1.0-2+debug_iphoneos-arm.deb
+Size: 101372
+Installed-Size: 516
+MD5sum: 5858af2ecf90ea9785a38e5c1b1a6fbf
 Description: English: Animated icon theming platform for iOS 10 Español: Temas con iconos animados para iOS 10
-author: Charlie Hewitt <contact@chewitt.me>
-name: Fingal
-icon: file:///Library/PreferenceBundles/FingalPrefs.bundle/icon_big.png
+icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
+name: Alis
+author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
 
