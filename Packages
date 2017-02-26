@@ -5,11 +5,12 @@ Maintainer: GUPILUAN <gupiluan@hotmail.com>
 Depends: mobilesubstrate, firmware (>=10.0), preferenceloader
 Architecture: iphoneos-arm
 Filename: debs//me.chewitt.fingal_1.1.0-1+debug_iphoneos-arm.deb
-Size: 77698
-Installed-Size: 376
-MD5sum: 3fafa28808fa6f2f01f66b4d1896509b
-Description: Animated icon theming platform for iOS 10
-icon: file:///Library/PreferenceBundles/FingalPrefs.bundle/icon_big.png
-author: Charlie Hewitt <contact@chewitt.me>
+Size: 77920
+Installed-Size: 392
+MD5sum: 369d493315d785a655e26572fbdaa684
+Description: English: Animated icon theming platform for iOS 10
+             Español: Temas con iconos animados para iOS 10
 name: Fingal
+author: Charlie Hewitt <contact@chewitt.me>
+icon: file:///Library/PreferenceBundles/FingalPrefs.bundle/icon_big.png
 
