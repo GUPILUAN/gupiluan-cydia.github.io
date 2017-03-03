@@ -1,7 +1,7 @@
 Package: mex.gupiluan.alis
 Version: 1.0
 Section: Tweaks
-Maintainer: GLuis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
+Maintainer: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
 Depends: mobilesubstrate, firmware (>=10.0), preferenceloader
 Architecture: iphoneos-arm
 Filename: debs//mex.gupiluan.alis_1.0_iphoneos-arm.deb
