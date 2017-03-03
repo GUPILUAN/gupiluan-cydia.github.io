@@ -5,9 +5,9 @@ Maintainer: GLuis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
 Depends: mobilesubstrate, firmware (>=10.0), preferenceloader
 Architecture: iphoneos-arm
 Filename: debs//mex.gupiluan.alis_1.0_iphoneos-arm.deb
-Size: 83808
+Size: 84440
 Installed-Size: 472
-MD5sum: 9c45131b945b7e49d17265b991c37caa
+MD5sum: 4fb437dab82ee0a507200d51d063e460
 Description: English: Animated icon theming platform for iOS 10 Español: Temas con iconos animados para iOS 10
 icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
 name: Alis
