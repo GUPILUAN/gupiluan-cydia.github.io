@@ -1,16 +1,16 @@
 Package: mex.gupiluan.adblockerforyoutube
-Version: 1.0-1+debug
+Version: 1.0
 Section: Tweaks
-Maintainer: Luis Gutiérrez (GUPILUAN)<gupiluan@hotmail.com>
+Maintainer: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//mex.gupiluan.adblockerforyoutube_1.0-1+debug_iphoneos-arm.deb
-Size: 5906
-Installed-Size: 140
-MD5sum: 8ee44f978e5ffdd35569be8ba1885a3c
+Filename: debs//mex.gupiluan.adblockerforyoutube_1.0_iphoneos-arm.deb
+Size: 4286
+Installed-Size: 136
+MD5sum: e8c27503fef485be83e0f8e53df68a7b
 Description: Block any ads on Youtube app / Bloquea cualquier publicidad en la app de Youtube
-name: Adblocker For YouTube
-author: Luis Gutiérrez (GUPILUAN)<gupiluan@hotmail.com>
+name: Ad Blocker For YouTube
+author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
 
 Package: mex.gupiluan.adblockerios10
 Version: 1.0
@@ -35,7 +35,7 @@ Size: 84440
 Installed-Size: 472
 MD5sum: 4fb437dab82ee0a507200d51d063e460
 Description: English: Animated icon theming platform for iOS 10 Español: Temas con iconos animados para iOS 10
-name: Alis
 icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
+name: Alis
 author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
 
