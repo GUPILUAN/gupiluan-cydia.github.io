@@ -1,3 +1,15 @@
+Package: mex.gupiluan.adblockerios10
+Version: 1.0
+Section: Tweaks
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
+Architecture: iphoneos-arm
+Filename: debs//mex.gupiluan.adbloker.deb
+Size: 6722
+MD5sum: 860d4918092308b8dd5ce4ae5a59c4a5
+Description: Desactiva anuncios / Disable ads (iOS 5.x.x to 10.2)
+author: GUPILUAN
+name: Ad Blocker iOS 10
+
 Package: mex.gupiluan.alis
 Version: 1.0
 Section: Tweaks
@@ -10,6 +22,6 @@ Installed-Size: 472
 MD5sum: 4fb437dab82ee0a507200d51d063e460
 Description: English: Animated icon theming platform for iOS 10 Español: Temas con iconos animados para iOS 10
 author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
-name: Alis
 icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
+name: Alis
 
