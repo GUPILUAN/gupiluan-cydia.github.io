@@ -39,3 +39,16 @@ icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
 name: Alis
 author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
 
+Package: mex.gupiluan.glasklart
+Version: 1.0
+Section: Themes
+Maintainer: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//Glasklart.deb
+Size: 62372422
+MD5sum: b611f7d996d01b501c24c14411a2aff8
+Description: Increible tema para iOS 10 semitransparente
+name: Glasklart iOS 10
+author: Max Rudberg
+
