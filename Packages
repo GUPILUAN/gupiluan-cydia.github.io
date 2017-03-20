@@ -1,3 +1,17 @@
+Package: com.yourcompany.goodmessageheads
+Version: 0.0.1-4+debug
+Section: Tweaks
+Maintainer: Will Smillie
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.yourcompany.goodmessageheads_0.0.1-4+debug_iphoneos-arm.deb
+Size: 177156
+Installed-Size: 588
+MD5sum: 1545bb77ed38269864caa0d452fdecf9
+Description: An awesome MobileSubstrate tweak!
+author: Will Smillie
+name: Good Message Heads
+
 Package: mex.gupiluan.adblockerforyoutube
 Version: 1.0
 Section: Tweaks
@@ -35,7 +49,7 @@ Size: 84440
 Installed-Size: 472
 MD5sum: 4fb437dab82ee0a507200d51d063e460
 Description: English: Animated icon theming platform for iOS 10 Español: Temas con iconos animados para iOS 10
-author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
 icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
+author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
 name: Alis
 
