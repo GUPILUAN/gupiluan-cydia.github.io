@@ -1,0 +1,12 @@
+Package: com.gupiluan.iossierra
+Version: 1.0
+Section: Themes
+Maintainer: Luis Gutierrez (GUPILUAN) <gupiluan@hotmail.com>
+Architecture: iphoneos-arm
+Filename: debs//iOSSierra.deb
+Size: 2107340
+MD5sum: b330696caf875f839f68b6585778c4ec
+Description: Tema inspirado en macOS Sierra (UTILIZAR ANEMONE)
+author: Luis Gutierrez (GUPILUAN) <gupiluan@hotmail.com>
+name: iOS Sierra
+

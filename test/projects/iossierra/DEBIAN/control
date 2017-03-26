@@ -1,0 +1,9 @@
+Package: mex.gupiluan.iossierra
+Name: iOS Sierra
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: tema como macOS
+Maintainer: Luis Gutiérrez (GUPILUAN)
+Author: Luis Gutiérrez (GUPILUAN)
+Section: Themes

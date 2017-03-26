@@ -1,0 +1,8 @@
+Origin: GUPILUAN test
+Label: La repo test de GUPILUAN :v
+Suite: stable
+Version: 1.0
+Codename: gupiluan
+Architectures: iphoneos-arm
+Components: main
+Description: Para probar mis cosas :v 
