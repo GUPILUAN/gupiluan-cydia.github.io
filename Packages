@@ -1,3 +1,18 @@
+Package: com.pxcex.pip
+Version: 2.0
+Section: Tweaks
+Maintainer: pxcex
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: debs//com.pxcex.pip_2.0_iphoneos-arm.deb
+Size: 74248
+Installed-Size: 484
+MD5sum: 68e69e7da915dcd7dac66734fb674b7a
+Description: viewing video can be seen on a small scale while doing other things such as the features of OS X Sierra.
+depiction: https://paxcex.github.io/depictions/com.pxcex.pip/index.html
+author: pxcex
+name: Picture-in-Picture
+
 Package: mex.gupiluan.adblockerforyoutube
 Version: 1.0
 Section: Tweaks
@@ -9,8 +24,8 @@ Size: 4286
 Installed-Size: 136
 MD5sum: e8c27503fef485be83e0f8e53df68a7b
 Description: Block any ads on Youtube app / Bloquea cualquier publicidad en la app de Youtube
-name: Ad Blocker For YouTube
 author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
+name: Ad Blocker For YouTube
 
 Package: mex.gupiluan.adblockerios10
 Version: 1.0
@@ -21,8 +36,8 @@ Filename: debs//mex.gupiluan.adbloker.deb
 Size: 5674
 MD5sum: 344383e13c55bbc0603bad83dd7a3429
 Description: Desactiva anuncios / Disable ads (iOS 5.x.x to 10.2)
-name: Ad Blocker iOS 10
 author: GUPILUAN
+name: Ad Blocker iOS 10
 
 Package: mex.gupiluan.alis
 Version: 1.0
@@ -35,7 +50,7 @@ Size: 84440
 Installed-Size: 472
 MD5sum: 4fb437dab82ee0a507200d51d063e460
 Description: English: Animated icon theming platform for iOS 10 Español: Temas con iconos animados para iOS 10
-name: Alis
 icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
 author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
+name: Alis
 
