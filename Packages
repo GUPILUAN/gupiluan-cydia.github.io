@@ -62,8 +62,8 @@ Maintainer: Luis Gutiérrez (GUPILUAN)
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs//mex.gupiluan.glasklart_1.0_iphoneos-arm.deb
-Size: 3135444
-MD5sum: 7af821c3b512dcca41af06e081147790
+Size: 3150748
+MD5sum: 1f2f44f016ca1b5be091e4b5e50b2b2b
 Description: Compatible con iOS 10 y 9 (actualizado)
 author: Luis Gutiérrez (GUPILUAN)
 name: Glasklart
