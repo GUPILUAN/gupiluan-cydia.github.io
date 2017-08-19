@@ -10,8 +10,8 @@ Size: 7203530
 Installed-Size: 17008
 MD5sum: 88347b539ebaae564e2000bb8cf84138
 Description: DRAGON BALL Z DOKKAN BATTLE Cheats by ZahirSher for iOSGods.com!
-homepage: https://iosgods.com
 author: ZahirSher
+homepage: https://iosgods.com
 name: DRAGON BALL Z DOKKAN BATTLE Cheats
 
 Package: mex.gupiluan.adblockerforyoutube
@@ -51,7 +51,20 @@ Size: 84440
 Installed-Size: 472
 MD5sum: 4fb437dab82ee0a507200d51d063e460
 Description: English: Animated icon theming platform for iOS 10 Español: Temas con iconos animados para iOS 10
-icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
 author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
+icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
 name: Alis
+
+Package: mex.gupiluan.glasklart
+Version: 1.0
+Section: Themes
+Maintainer: Luis Gutiérrez (GUPILUAN)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//mex.gupiluan.glasklart_1.0_iphoneos-arm.deb
+Size: 3135444
+MD5sum: 7af821c3b512dcca41af06e081147790
+Description: Compatible con iOS 10 y 9 (actualizado)
+author: Luis Gutiérrez (GUPILUAN)
+name: Glasklart
 
