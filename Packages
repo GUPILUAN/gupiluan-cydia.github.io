@@ -1,18 +1,17 @@
-Package: iOSGods.com.DragonBallZDK
-Version: 3.0.1-1
+Package: iOSGods.com.DRAGONBALLZDOKKANBATTLE
+Version: 3.3.1-4
 Section: Tweaks
 Maintainer: iOSGods.com
 Depends: mobilesubstrate, preferenceloader
-Conflicts: kr.typostudio.tsprotector8
 Architecture: iphoneos-arm
-Filename: debs//iOSGods.com.DragonBallZDK_3.0.1-1_iphoneos-arm.deb
-Size: 7203530
-Installed-Size: 17008
-MD5sum: 88347b539ebaae564e2000bb8cf84138
-Description: DRAGON BALL Z DOKKAN BATTLE Cheats by ZahirSher for iOSGods.com!
-author: ZahirSher
+Filename: debs//iOSGods.com.DRAGONBALLZDOKKANBATTLE_3.3.1-4_iphoneos-arm.deb
+Size: 7868552
+Installed-Size: 18756
+MD5sum: 71f7b40f1ad4e2095cfcb44a5c45a195
+Description: DRAGON BALL Z DOKKAN BATTLE Cheats by ZahirSher & DiDA for iOSGods.com!
 homepage: https://iosgods.com
 name: DRAGON BALL Z DOKKAN BATTLE Cheats
+author: ZahirSher & DiDA
 
 Package: mex.gupiluan.adblockerforyoutube
 Version: 1.0
@@ -25,8 +24,8 @@ Size: 4286
 Installed-Size: 136
 MD5sum: e8c27503fef485be83e0f8e53df68a7b
 Description: Block any ads on Youtube app / Bloquea cualquier publicidad en la app de Youtube
-author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
 name: Ad Blocker For YouTube
+author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
 
 Package: mex.gupiluan.adblockerios10
 Version: 1.0
@@ -37,8 +36,8 @@ Filename: debs//mex.gupiluan.adbloker.deb
 Size: 5674
 MD5sum: 344383e13c55bbc0603bad83dd7a3429
 Description: Desactiva anuncios / Disable ads (iOS 5.x.x to 10.2)
-author: GUPILUAN
 name: Ad Blocker iOS 10
+author: GUPILUAN
 
 Package: mex.gupiluan.alis
 Version: 1.0
@@ -51,9 +50,9 @@ Size: 84440
 Installed-Size: 472
 MD5sum: 4fb437dab82ee0a507200d51d063e460
 Description: English: Animated icon theming platform for iOS 10 Español: Temas con iconos animados para iOS 10
-author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
-icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
 name: Alis
+icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
+author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
 
 Package: mex.gupiluan.glasklart
 Version: 1.0
@@ -65,6 +64,6 @@ Filename: debs//mex.gupiluan.glasklart_1.0_iphoneos-arm.deb
 Size: 3150748
 MD5sum: 1f2f44f016ca1b5be091e4b5e50b2b2b
 Description: Compatible con iOS 10 y 9 (actualizado)
-author: Luis Gutiérrez (GUPILUAN)
 name: Glasklart
+author: Luis Gutiérrez (GUPILUAN)
 
