@@ -1,17 +1,17 @@
 Package: iOSGods.com.DRAGONBALLZDOKKANBATTLE
-Version: 3.3.1-4
+Version: 3.5.1-3
 Section: Tweaks
 Maintainer: iOSGods.com
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: debs//iOSGods.com.DRAGONBALLZDOKKANBATTLE_3.3.1-4_iphoneos-arm.deb
-Size: 7868552
-Installed-Size: 18756
-MD5sum: 71f7b40f1ad4e2095cfcb44a5c45a195
+Filename: debs//iOSGods.com.DRAGONBALLZDOKKANBATTLE_3.5.1-3_iphoneos-arm.deb
+Size: 8057726
+Installed-Size: 19244
+MD5sum: 7aa1bc872ad721ca485e3c2db9ddabb1
 Description: DRAGON BALL Z DOKKAN BATTLE Cheats by ZahirSher & DiDA for iOSGods.com!
-homepage: https://iosgods.com
 name: DRAGON BALL Z DOKKAN BATTLE Cheats
 author: ZahirSher & DiDA
+homepage: https://iosgods.com
 
 Package: mex.gupiluan.adblockerforyoutube
 Version: 1.0
@@ -51,8 +51,8 @@ Installed-Size: 472
 MD5sum: 4fb437dab82ee0a507200d51d063e460
 Description: English: Animated icon theming platform for iOS 10 Español: Temas con iconos animados para iOS 10
 name: Alis
-icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
 author: Luis Gutiérrez (GUPILUAN) <gupiluan@hotmail.com>
+icon: file:///Library/PreferenceBundles/AlisPrefs.bundle/icon_big.png
 
 Package: mex.gupiluan.glasklart
 Version: 1.0
